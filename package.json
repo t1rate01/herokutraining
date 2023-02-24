@@ -1,5 +1,22 @@
 {
+  "name": "herokutraining",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t1rate01/herokutraining.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/t1rate01/herokutraining/issues"
+  },
+  "homepage": "https://github.com/t1rate01/herokutraining#readme",
   "dependencies": {
-    "heroku": "^7.68.2"
+    "express": "^4.18.2"
   }
 }
